@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script > 
+        document.write("I am at the TOP of The Document in the HEAD section");
+    </script>
+
+<meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Peter's Great Page</title>
+</head>
+<body>
+     <h1>Hello Class</h1>   
+
+     <script>
+        document.write("<H1>I am in the BODY</h1>");
+    </script>/>
+
+    <img src='thebear.jpg' width='200'/>
+
+</body>
+    <script>
+        document.write("<hr>I am at the End of The Document");
+    </script>
+</html>
