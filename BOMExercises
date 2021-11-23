@@ -35,3 +35,13 @@ h1{
 	color: #fff;
 	font-family: Arial, Helvetica, sans-serif;
 }
+
+
+
+/* Filename: custom.js */
+$(document).ready(function() {
+$("div").click(function() { 
+alert("Hello world!");
+});
+});
+
